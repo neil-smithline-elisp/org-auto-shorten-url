@@ -1,0 +1,3 @@
+Provide automatic [[http://bit.ly/K3WWsY][URL shortening]] via [[http://bit.ly/K3WOK9][Bit.ly]] or optionally another URL shortening service, to Emacs' [[http://bit.ly/zhYdcB][Org Mode]].
+
+See the commentary in [[http://bit.ly/K3XFun][org-auto-shorten-url.el]] and the documentation for `org-auto-shorten-url' in that file.
